@@ -1,0 +1,51 @@
+Core Python
+What is Python?-python is a computer programming language
+
+Features:
+1.General Purpose Programming
+	-	Desktop Apps , Web Applications,Game Development
+	 -AI(Artificial Intelligence)-ML(Predictive Analysis),Deep Learning(Neural Networks) , IOT(Internet of things)-Hardware+s/w - alexa -arduino Chips
+
+2. Multi Paradigm Programming
+	Multi Paradigm = Procedural Programming + Functional Programming+OOPs(Object Oriented Programming)
+
+3.Python is an Open Source(freely available) Software
+
+4.Python’s syntax is easy to learn and easy to use
+
+5.Python —> Interpreted Programming
+						Interpreted -> interpreter
+
+						compiler->it executes the whole program at once
+						interpreter -> it executes the whole program in line by line manner.
+
+6.Python is a dynamically type/loosely typed programming
+
+History:
+1989 -> Guido Vann Rossum ->”Monty’s python flying circus”
+
+Course Curriculum:
+basic intro - done
+variables & literal
+Data types:
+Numbers ->int, float, complex no ->(a+bj where   a is real & b is imaginary)
+String -> ‘ ’ , “ ” , “”” “””
+boolean -> True , False
+None -> empty 
+Conditional Statements -if else
+Iterative Statements - loops
+Data Collection
+List
+Tuple
+Dictionary 
+Sets
+Functions
+Exceptions handeling
+File Handeling
+
+———————
+Web Crawling - Search Engine , File Downloader-bs4,urllib.request
+ChatBot -date,time,open any web page, music, movie, news….
+Movie Reccomendation System
+
+
